@@ -35,14 +35,18 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-## More     
+### More     
   
 </span>
 
+<table width="100%" border="0">
+  <td width="50%">
 <img align="left" alt="gitHub-stats" src="https://github-readme-stats-ecru-nu.vercel.app/api?username=smollet777&hide_border=true&show_icons=true&text_color=216e39&title_color=40c463&icon_color=216e39" />
-
-<img align="right" alt="top-langs" src="https://github-readme-stats-ecru-nu.vercel.app/api/top-langs/?username=smollet777&layout=compact&hide_border=true&title_color=40c463" />
-
+</td>
+<td width="50%">
+  <img align="right" alt="top-langs" src="https://github-readme-stats-ecru-nu.vercel.app/api/top-langs/?username=smollet777&layout=compact&hide_border=true&title_color=40c463" />
+  </td>
+</table>
 
 <!--
 **Smollet777/Smollet777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
