@@ -10,13 +10,19 @@
   <img align="left" alt="freecodecamp" width="30px" src="https://raw.githubusercontent.com/Smollet777/Smollet777/main/img/freecodecamp_icon.svg" />
 </a>
 
- [![FreeCodeCamp points](https://img.shields.io/freecodecamp/points/smollet777?logo=freecodecamp&style=for-the-badge)](https://www.freecodecamp.org/smollet777 "freeCodeCamp")
+ [![FreeCodeCamp points](https://img.shields.io/freecodecamp/points/smollet777?logo=freecodecamp&style=for-the-badge)](https://www.freecodecamp.org/smollet777 "FreeCodeCamp points")
 
 <a href="https://stackoverflow.com/users/5134980/smollet777" target="_blank" title="stackoverflow">
   <img align="left" alt="stackoverflow" width="30px" src="https://raw.githubusercontent.com/Smollet777/Smollet777/main/img/stack-overflow.svg" />
 </a>
 
 [![Stack Overflow Reputation](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5134980)](https://stackoverflow.com/users/5134980 "Smollet's Stack Overflow Reputation")
+
+<a href="https://www.codewars.com/users/Smollet" target="_blank" title="codewars">
+  <img align="left" alt="codewars" width="30px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />
+</a>
+
+[![codewars](https://www.codewars.com/users/Smollet/badges/micro)](https://www.codewars.com/users/Smollet "Codewars honor")
 
 
 <span align="center">
