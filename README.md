@@ -43,6 +43,8 @@
 
 ### More     
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Smollet777&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=40C463&fire=216E39&dates=40C463&currStreakNum=216E39&sideNums=216E39&currStreakLabel=40C463&sideLabels=40C463)](https://git.io/streak-stats)
+  
 </span>
 
 <table width="100%" border="0">
