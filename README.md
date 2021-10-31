@@ -49,7 +49,7 @@
 
 <table width="100%" border="0">
   <td width="50%">
-<img align="left" alt="gitHub-stats" src="https://github-readme-stats-ecru-nu.vercel.app/api?username=smollet777&hide_border=true&show_icons=true&text_color=216e39&title_color=40c463&icon_color=216e39" />
+<img align="left" alt="gitHub-stats" src="https://github-readme-stats.vercel.app/api?username=smollet777&hide_border=true&show_icons=true&text_color=216e39&title_color=40c463&icon_color=216e39" />
 </td>
 <td width="50%">
   <img align="right" alt="top-langs" src="https://github-readme-stats-ecru-nu.vercel.app/api/top-langs/?username=smollet777&layout=compact&hide_border=true&title_color=40c463" />
