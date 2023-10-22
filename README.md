@@ -1,7 +1,7 @@
 ## 👋 Hi there. My name is Ivan
 
 <a href="https://twitter.com/smollet777" target="_blank" title="twitter">
-  <img align="left" alt="twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="twitter" width="30px" src="https://raw.githubusercontent.com/Smollet777/Smollet777/main/img/image.png" />
 </a>
 
 [![twitter](https://img.shields.io/twitter/follow/smollet777?color=blue&label=follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/smollet777 "Twitter Follow")
